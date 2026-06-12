@@ -1,0 +1,13 @@
+{
+  "name": "cronexpr",
+  "version": "1.0.0",
+  "description": "Parse and validate cron expressions. Show next run times. Zero deps.",
+  "main": "index.js",
+  "bin": { "cronexpr": "./cli.js" },
+  "scripts": { "test": "node test.js" },
+  "keywords": ["cron", "cron-expression", "schedule", "parser", "validator"],
+  "author": "sulthonzh",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/sulthonzh/cronexpr" },
+  "engines": { "node": ">=14" }
+}
