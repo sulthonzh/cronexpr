@@ -34,5 +34,8 @@
   "homepage": "https://github.com/sulthonzh/cronexpr#readme",
   "bugs": {
     "url": "https://github.com/sulthonzh/cronexpr/issues"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.31.0"
   }
 }
